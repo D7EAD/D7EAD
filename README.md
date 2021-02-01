@@ -4,7 +4,7 @@
 [![GitHub D7EAD](https://img.shields.io/github/followers/D7EAD?label=follow&style=social)](https://github.com/D7EAD)
 
 
-### A bit about me...
+### <img src="https://media0.giphy.com/media/dyX9ixfxMpOUGawfdK/giphy.gif?cid=ecf05e47qddbqvanfr3e9smkzufp1u9vi4zu2ta2evl4isbu&rid=giphy.gif" width="50"> A bit about me...
 
 ```c
 typedef struct self {
