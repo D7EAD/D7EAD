@@ -1,4 +1,4 @@
-<h2> Hi, I'm Thai Braga! <img src="https://media3.giphy.com/media/eNGMPzJSyKZoRq59Ey/giphy.gif?cid=ecf05e47ui9vta8pn4gwqxl6xhi0z6r5swwvwhso435a0gwo&rid=giphy.gif" width="50"></h2>
+<h2> Hey! <img src="https://media3.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif?cid=ecf05e47xjncfpp7vdp16pv5esw3576lp4z793ogik1ebbil&rid=giphy.gif" width="50"></h2>
 <img align='right' src="https://media1.giphy.com/media/gdYjehWJBCApmOEeCp/giphy.gif?cid=ecf05e472qv4nveqwob809s0hwc9zcpktawc2tj2w7dstb4u&rid=giphy.gif" width="230">
 <p><em>Lover of all things <a href="https://www.google.com/search?q=define+cybersecurity">security</a><img src="https://media2.giphy.com/media/J5B00esp0BoiCrqdCe/giphy.gif?cid=ecf05e47eerjc3i3ed65p91r3yidvlwdtvb9u298dlo1dyty&rid=giphy.gif" width="30"></br>Writer of all things <a href="https://www.google.com/search?q=define+code">code</a><img src="https://media1.giphy.com/media/hsDkitC0kWA60R5VEU/giphy.gif?cid=ecf05e47y2ih2fkt6oeehzgjm7sru42s8l9a33evle5z6aoq&rid=giphy.gif" width="30"> 
 </em></p>
