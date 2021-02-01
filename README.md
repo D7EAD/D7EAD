@@ -4,7 +4,7 @@
 [![GitHub D7EAD](https://img.shields.io/github/followers/D7EAD?label=follow&style=social)](https://github.com/D7EAD)
 
 
-### <img src="https://media0.giphy.com/media/dyX9ixfxMpOUGawfdK/giphy.gif?cid=ecf05e47km7brmaez7v6nii1nlqwqzz42wlo1vx33vzbvlkb&rid=giphy.gif" width="50"> A bit about me...
+### <img src="https://media1.giphy.com/media/lo4Rb0bkHuH1V8dbvY/giphy.gif?cid=ecf05e47atcxqpdeavvp4nsxu0aayofdslnfkwutxcdml3f3&rid=giphy.gif" width="60"> A bit about me...
 
 ```c
 typedef struct self {
@@ -35,6 +35,6 @@ int main() {
 }
 ```
 
-<em><b>You into the same stuff? Just lonely?</b> Reach me on Discord if you want: <b>D7EAD#0001</b>. Let's chat! </em><img src="https://media1.giphy.com/media/lo4Rb0bkHuH1V8dbvY/giphy.gif?cid=ecf05e47atcxqpdeavvp4nsxu0aayofdslnfkwutxcdml3f3&rid=giphy.gif" width="60"> 
+<em><b>You into the same stuff? Just lonely?</b> Reach me on Discord if you want: <b>D7EAD#0001</b>. Let's chat! </em> 
 
 ---
