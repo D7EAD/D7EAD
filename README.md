@@ -14,23 +14,23 @@ typedef struct self {
 		const char* verbal;
 	} languages;
 	const char* specialties;
-	struct favorite {
+	struct favorites {
 		const char* channels;
 		const char* conventions;
-	} favorites;
+	} favorite;
 	bool incomplete;
 } *pself;
 
 int main() {
 	self bio;
 	[](pself bio) -> void {
-		bio->pronouns              = "I'm a guy";
-		bio->languages.code        = "C, C++, Python";
-		bio->languages.verbal      = "Russian:some, Spanish:some, English:fluent";
-		bio->specialties           = "Networking, cybersecurity, programming";
-		bio->favorites.channels    = "PwnFunction, NetworkingChuck, liveOverflow";
-		bio->favorites.conventions = "DEFCON (non-SafeMode)";
-		bio->incomplete            = true;
+		bio->pronouns = "I'm a guy";
+		bio->languages.code = "C, C++, Python";
+		bio->languages.verbal = "Russian:some, Spanish:some, English:fluent";
+		bio->specialties = "Networking, cybersecurity, programming";
+		bio->favorite.channels = "PwnFunction, Networking Chuck, liveOverflow";
+		bio->favorite.conventions = "DEFCON (non-SafeMode)";
+		bio->incomplete = true;
 	}(&bio);
 }
 ```
