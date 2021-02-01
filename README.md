@@ -5,7 +5,7 @@
 [![GitHub D7EAD](https://img.shields.io/github/followers/D7EAD?label=follow&style=social)](https://github.com/D7EAD)
 
 
-### <img src="https://media0.giphy.com/media/h3Wajg3GZSlzdpT46r/giphy.gif?cid=ecf05e47km7brmaez7v6nii1nlqwqzz42wlo1vx33vzbvlkb&rid=giphy.gif" width="50"> A bit about me...
+### <img src="https://media0.giphy.com/media/dyX9ixfxMpOUGawfdK/giphy.gif?cid=ecf05e47km7brmaez7v6nii1nlqwqzz42wlo1vx33vzbvlkb&rid=giphy.gif" width="50"> A bit about me...
 
 ```c
 const thai = {
