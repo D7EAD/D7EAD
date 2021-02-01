@@ -18,6 +18,7 @@ typedef struct self {
 		const char* channels;
 		const char* conventions;
 	} favorites;
+	bool incomplete;
 } *pself;
 
 int main() {
@@ -29,6 +30,7 @@ int main() {
 		bio->specialties           = "Networking, cybersecurity, programming";
 		bio->favorites.channels    = "PwnFunction, Networking Chuck, liveOverflow";
 		bio->favorites.conventions = "DEFCON (non-SafeMode)";
+		bio->incomplete = true;
 	}(&bio);
 }
 ```
