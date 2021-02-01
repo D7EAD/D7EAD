@@ -8,15 +8,13 @@
 
 ```c
 typedef struct self {
-	const char* pronouns;
+	const char* pronouns; bool incomplete; const char* specialties;
 	struct lang {
 		const char* code; const char* verbal;
 	} languages;
-	const char* specialties;
 	struct favorites {
 		const char* channels; const char* conventions;
 	} favorite;
-	bool incomplete;
 } *pself;
 
 int main() {
