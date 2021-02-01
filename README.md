@@ -1,5 +1,5 @@
 <h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media0.giphy.com/media/RxAdKu5nrs32vhKEUq/giphy.gif?cid=ecf05e472uig5vea3yhdep8s8i3rp3krqgon6x41kz2uxwoy&rid=giphy.gif" width="230">
+<img align='right' src="https://media1.giphy.com/media/gdYjehWJBCApmOEeCp/giphy.gif?cid=ecf05e472qv4nveqwob809s0hwc9zcpktawc2tj2w7dstb4u&rid=giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
