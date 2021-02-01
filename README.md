@@ -3,7 +3,7 @@
 <p><em>Lover of all things <a href="https://www.google.com/search?q=define+cybersecurity">security</a><img src="https://media2.giphy.com/media/J5B00esp0BoiCrqdCe/giphy.gif?cid=ecf05e47eerjc3i3ed65p91r3yidvlwdtvb9u298dlo1dyty&rid=giphy.gif" width="30"></br>Writer of all things <a href="https://www.google.com/search?q=define+code">code</a><img src="https://media1.giphy.com/media/hsDkitC0kWA60R5VEU/giphy.gif?cid=ecf05e47y2ih2fkt6oeehzgjm7sru42s8l9a33evle5z6aoq&rid=giphy.gif" width="30"> 
 </em></p>
 
-[![Discord: D7EAD#0001](https://img.shields.io/badge/-D7EAD#0001-blue?style=flat-square&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)]
+[![Profile](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=D7EAD#0001&logo=discord&style=flat-square)](D7EAD#0001)
 [![GitHub D7EAD](https://img.shields.io/github/followers/D7EAD?label=follow&style=social)](https://github.com/D7EAD)
 
 
