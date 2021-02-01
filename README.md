@@ -10,20 +10,26 @@
 ```c
 typedef struct self {
 	const char* pronouns;
-	struct languages {
+	struct lang {
 		const char* code;
 		const char* verbal;
-	} lang;
+	} languages;
 	const char* specialties;
+	struct favorite {
+		const char* channels;
+		const char* conventions;
+	} favorites;
 } *pself;
 
 int main() {
 	self bio;
 	[](pself bio) -> void {
 		bio->pronouns    = "I'm a guy";
-		bio->lang.code   = "C, C++, Python";
-		bio->lang.verbal = "Russian, Spanish, English";
+		bio->languages.code   = "C, C++, Python";
+		bio->languages.verbal = "Russian, Spanish, English";
 		bio->specialties = "Networking, cybersecurity, programming";
+		bio->favorites.channels = "PwnFunction, Networking Chuck, liveOverflow";
+		bio->favorites.conventions = "DEFCON (non-SafeMode)";
 	}(&bio);
 }
 ```
