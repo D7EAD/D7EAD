@@ -18,8 +18,7 @@ typedef struct self {
 } *pself;
 
 int main() {
-	self bio;
-	[](pself bio) -> void {
+	self bio; [](pself bio) -> void {
 		bio->pronouns = "I'm a guy";
 		bio->languages.code = "C, C++, Python";
 		bio->languages.verbal = "Russian:some, Spanish:some, English:fluent";
