@@ -5,9 +5,9 @@
 [![GitHub D7EAD](https://img.shields.io/github/followers/D7EAD?label=follow&style=social)](https://github.com/D7EAD)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media0.giphy.com/media/h3Wajg3GZSlzdpT46r/giphy.gif?cid=ecf05e47km7brmaez7v6nii1nlqwqzz42wlo1vx33vzbvlkb&rid=giphy.gif" width="50"> A bit about me...
 
-```javascript
+```c
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
