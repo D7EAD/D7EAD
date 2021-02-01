@@ -8,20 +8,26 @@
 ### <img src="https://media0.giphy.com/media/dyX9ixfxMpOUGawfdK/giphy.gif?cid=ecf05e47km7brmaez7v6nii1nlqwqzz42wlo1vx33vzbvlkb&rid=giphy.gif" width="50"> A bit about me...
 
 ```c
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+typedef struct self {
+	const char* pronouns;
+	struct languages {
+		const char* code;
+		const char* verbal;
+	} lang;
+	const char* specialties;
+} *pself;
+
+int main() {
+	self bio;
+	[](pself bio) -> void {
+		bio->pronouns    = "I'm a guy";
+		bio->lang.code   = "C, C++, Python";
+		bio->lang.verbal = "Russian, Spanish, English";
+		bio->specialties = "Networking, cybersecurity, programming";
+	}(&bio);
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media1.giphy.com/media/lo4Rb0bkHuH1V8dbvY/giphy.gif?cid=ecf05e47atcxqpdeavvp4nsxu0aayofdslnfkwutxcdml3f3&rid=giphy.gif" width="60"> <em><b>Are you a geek too?</b> Reach me on Discord if you want: <b>D7EAD#0001</b>.</em>
 
 ---
