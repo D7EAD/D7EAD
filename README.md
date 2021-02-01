@@ -26,7 +26,7 @@ int main() {
 	[](pself bio) -> void {
 		bio->pronouns              = "I'm a guy";
 		bio->languages.code        = "C, C++, Python";
-		bio->languages.verbal      = "Russian, Spanish, English";
+		bio->languages.verbal      = "Russian:some, Spanish:some, English:fluent";
 		bio->specialties           = "Networking, cybersecurity, programming";
 		bio->favorites.channels    = "PwnFunction, Networking Chuck, liveOverflow";
 		bio->favorites.conventions = "DEFCON (non-SafeMode)";
