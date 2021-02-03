@@ -15,6 +15,12 @@
                        '                                      
 <strong>Welcome.</strong>
 </pre>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=D7EAD&show_icons=true&include_all_commits=true&theme=material-palenight" alt="D7EAD's Github Stats" />
+</a>
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D7EAD&layout=compact&theme=material-palenight" />
+</a>
 <img align='right' src="https://media1.giphy.com/media/gdYjehWJBCApmOEeCp/giphy.gif?cid=ecf05e472qv4nveqwob809s0hwc9zcpktawc2tj2w7dstb4u&rid=giphy.gif" width="280">
 <p><em><b>Defender</b> of all things <a href="https://www.google.com/search?q=define+cybersecurity">security</a><img src="https://media2.giphy.com/media/J5B00esp0BoiCrqdCe/giphy.gif?cid=ecf05e47eerjc3i3ed65p91r3yidvlwdtvb9u298dlo1dyty&rid=giphy.gif" width="30"></br><b>Writer</b> of all things <a href="https://www.google.com/search?q=define+code">code</a><img src="https://media1.giphy.com/media/hsDkitC0kWA60R5VEU/giphy.gif?cid=ecf05e47y2ih2fkt6oeehzgjm7sru42s8l9a33evle5z6aoq&rid=giphy.gif" width="30"></em></p>
 
@@ -48,10 +54,5 @@ int main() {
 
 <em><b>You into the same stuff? Just lonely?</b> Reach me on Discord if you want: <b>D7EAD#0001</b>. Let's chat! </em> <img src="https://media1.giphy.com/media/lo4Rb0bkHuH1V8dbvY/giphy.gif?cid=ecf05e47atcxqpdeavvp4nsxu0aayofdslnfkwutxcdml3f3&rid=giphy.gif" width="50"> 
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=D7EAD&show_icons=true&include_all_commits=true&theme=material-palenight" alt="D7EAD's Github Stats" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D7EAD&layout=compact&theme=material-palenight" />
-</a>
+
 ---
