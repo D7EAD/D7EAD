@@ -8,7 +8,7 @@
 
 ```c
 typedef struct self {
-	const char* pronouns; bool incomplete; const char* specialties;
+	bool incomplete; const char* specialties;
 	struct lang {
 		const char* code; const char* verbal;
 	} languages;
@@ -19,7 +19,6 @@ typedef struct self {
 
 int main() {
 	self bio; [](pself bio) -> void {
-		bio->pronouns = "I'm a guy";
 		bio->languages.code = "C, C++, Python";
 		bio->languages.verbal = "Russian:some, Spanish:some, English:fluent";
 		bio->specialties = "Networking, cybersecurity, programming";
