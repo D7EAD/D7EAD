@@ -10,6 +10,7 @@
       /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
+
 <strong>Welcome.</strong>
 </pre>
 <img align='right' src="https://media1.giphy.com/media/gdYjehWJBCApmOEeCp/giphy.gif?cid=ecf05e472qv4nveqwob809s0hwc9zcpktawc2tj2w7dstb4u&rid=giphy.gif" width="280">
