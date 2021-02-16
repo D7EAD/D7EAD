@@ -22,7 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D7EAD&layout=compact&theme=material-palenight" />
 </a>
 
-</br>
+</br></br>
 
 [![GitHub D7EAD](https://img.shields.io/github/followers/D7EAD?label=follow&style=social)](https://github.com/D7EAD)
 
