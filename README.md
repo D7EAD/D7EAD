@@ -22,12 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D7EAD&layout=compact&theme=material-palenight" />
 </a>
 
-</br></br>
-
-[![GitHub D7EAD](https://img.shields.io/github/followers/D7EAD?label=follow&style=social)](https://github.com/D7EAD)
-
-
-### <img src="https://media0.giphy.com/media/dyX9ixfxMpOUGawfdK/giphy.gif?cid=ecf05e47qddbqvanfr3e9smkzufp1u9vi4zu2ta2evl4isbu&rid=giphy.gif" width="30"> A bit about me...
+### <img src="https://media0.giphy.com/media/dyX9ixfxMpOUGawfdK/giphy.gif?cid=ecf05e47qddbqvanfr3e9smkzufp1u9vi4zu2ta2evl4isbu&rid=giphy.gif" width="30"> A bit about me... [![GitHub D7EAD](https://img.shields.io/github/followers/D7EAD?label=follow&style=social)](https://github.com/D7EAD)
 
 ```c
 typedef struct self {
