@@ -40,7 +40,7 @@ int main() {
 		bio->languages.code = "C, C++, Python";
 		bio->languages.verbal = "Russian:some, Spanish:some, English:fluent";
 		bio->specialties = "Networking, cybersecurity, programming";
-		bio->favorite.channels = "PwnFunction, NetworkingChuck, liveOverflow";
+		bio->favorite.channels = "PwnFunction, NetworkChuck, liveOverflow";
 		bio->favorite.conventions = "DEFCON (non-SafeMode)";
 		bio->incomplete = true;
 	}(&bio);
