@@ -48,8 +48,8 @@ int main() {
 ```
 ### <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Upcoming Projects
 <ul>
-  <li>Crypto-related:<ul><li>a header-file only library that allows a user to retrieve multiple types of hashes from data, raw bytes, files, and files in nested directories--all through a simple, lightweight interface!</li></ul></li>
-  <li>Everything else in the back of my head...</li>
+	<li><i>Crypto-related</i>:<ul><li>a header-file only library that allows a user to retrieve multiple types of hashes from data, raw bytes, files, and files in nested directories--all through a simple, lightweight interface!</li></ul></li>
+	<li><i>Everything else in the back of my head...</i></li>
 </ul>
 <em><b>You into the same stuff? Just lonely?</b> Reach me on Discord if you want: <b>D7EAD#1337</b>. Let's chat! </em> <img src="https://media1.giphy.com/media/lo4Rb0bkHuH1V8dbvY/giphy.gif?cid=ecf05e47atcxqpdeavvp4nsxu0aayofdslnfkwutxcdml3f3&rid=giphy.gif" width="50"> 
 
