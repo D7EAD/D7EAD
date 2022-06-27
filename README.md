@@ -56,7 +56,7 @@
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Recent/Upcoming Projects
 <ul>			
-	<li><i>libtwitter</i>:<ul><li>a C++17 static and dynamic library to wrap the entire Twitter API. More info to come.</li></ul></li>
+	<li><i>libtwitter</i>:<ul><li>a C++17 static and dynamic library to wrap the entire Twitter API. In progress.</li></ul></li>
 	<li><i>ezChat (or another name)</i>:<ul><li>a fully-functional client-server chat application (similar to IRC) that implements public-key infrastructure for key exchange and AES for symmetrically encrypted client-server communication, as well as a hierarchal structure for administrative and moderation purposes. Project 40%ish done, in limbo for now.</li></ul></li>
 	<li><i><a href="https://github.com/D7EAD/HashPlusPlus">Hash++ (released)</a></i>:<ul><li>a header-file only library that allows a user to retrieve multiple types of hashes from data, files, and files in nested directories--all through a simple, lightweight interface!</li></ul></li>
 	<li><i>Everything else in the back of my head...</i></li>
