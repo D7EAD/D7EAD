@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31tvov5kdwgu47gtaxonapqwp4py">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+    
   </a>
 </div>
 
