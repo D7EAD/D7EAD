@@ -33,7 +33,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31tvov5kdwgu47gtaxonapqwp4py">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tvov5kdwgu47gtaxonapqwp4py&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tvov5kdwgu47gtaxonapqwp4py&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
   </a>
 </div>
 
