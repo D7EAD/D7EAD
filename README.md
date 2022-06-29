@@ -45,7 +45,7 @@
 <br/>
 <p align="left">
   <a href="https://dreadsec.me/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=D7EAD&show_icons=true&include_all_commits=false&theme=gruvbox&hide_border=true">	  
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=D7EAD&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=D7EAD&theme=gruvbox&hide_border=true">		  
   </a>
 </p>
