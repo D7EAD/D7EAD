@@ -55,7 +55,8 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{D7EAD}/count.svg"></p>
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Recent/Upcoming Projects
-<ul>			
+<ul>	
+	<li><i>unnamed</i>:<ul><li>a privacy-oriented, secure message distribution network. More to come.</li></ul></li>
 	<li><i><a href="https://github.com/D7EAD/liboai">liboai (released)</a></i>:<ul><li>a C++17 static and dynamic library to access the entire OpenAI API.</li></ul></li>
 	<li><i><a href="https://github.com/D7EAD/HashPlusPlus">Hash++ (released)</a></i>:<ul><li>a header-file only library that allows a user to retrieve multiple types of hashes from data, files, and files in nested directories--all through a simple, lightweight interface!</li></ul></li>
 	<li><i>Everything else in the back of my head...</i></li>
