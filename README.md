@@ -38,7 +38,7 @@
 </div>
 
 <p align="center">Contact me on:</p>
-<p align="center"><img src="https://img.shields.io/badge/D7EAD%231337-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=blue"></p>
+<p align="center"><img src="https://img.shields.io/badge/d7ead-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=blue"></p>
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
