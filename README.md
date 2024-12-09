@@ -31,11 +31,7 @@
 </div>
 </p>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31tvov5kdwgu47gtaxonapqwp4py">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tvov5kdwgu47gtaxonapqwp4py&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-  </a>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=D7EAD&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
