@@ -31,26 +31,3 @@
 </div>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=D7EAD&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
-
-<br/>
-<p align="left">
-  <a href="http://127.0.0.1/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=D7EAD&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=D7EAD&theme=gruvbox&hide_border=true">		  
-  </a>
-</p>
-<br>
-
-[![Dread's Activity Graph](https://activity-graph.herokuapp.com/graph?username=D7EAD&custom_title=Dread's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dreadsec.me)
-<p align="center"><img src="https://profile-counter.glitch.me/{D7EAD}/count.svg"></p>
-
-## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Recent/Upcoming Projects
-<ul>	
-	<li><i>unnamed</i>:<ul><li>a privacy-oriented, secure message distribution network. More to come.</li></ul></li>
-	<li><i><a href="https://github.com/D7EAD/liboai">liboai (released)</a></i>:<ul><li>a C++17 static and dynamic library to access the entire OpenAI API.</li></ul></li>
-	<li><i><a href="https://github.com/D7EAD/HashPlusPlus">Hash++ (released)</a></i>:<ul><li>a header-file only library that allows a user to retrieve multiple types of hashes from data, files, and files in nested directories--all through a simple, lightweight interface!</li></ul></li>
-	<li><i>Everything else in the back of my head...</i></li>
-</ul>
