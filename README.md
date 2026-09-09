@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 </div>
 </p>
+
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white">
@@ -31,3 +32,6 @@
 </div>
 </p>
 
+<p align="center">
+  <code>fb31f50d9f833893b4d6032401f448568f3861e3897b5c7fceaac96fe3bb4859</code>
+</p>
